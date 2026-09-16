@@ -20,7 +20,7 @@ Here I share books, research, and practical frameworks for engineers, researcher
 
 | Work | What you will find | Start reading |
 |---|---|---|
-| **NPU Architecture and Compiler Co-Design** | An open-access book exploring AI accelerator design through memory systems and data movement. Its central argument: a dataflow is a loop order plus a storage assignment. | [Read the book](https://drmnabdulla.github.io/npu-book-v1/) · [Source repository](https://github.com/drmnabdulla/npu-gemm-book) |
+| **NPU Architecture and Compiler Co-Design** | An open-access book exploring AI accelerator design through memory systems and data movement. Its central argument: a dataflow is a loop order plus a storage assignment. | [Read the book](https://drmnabdulla.github.io/npu-book-v1/) · [Source repository](https://github.com/drmnabdulla/npu-book-v1) |
 | **The TRIAD Index** | A framework connecting technology, manufacturing, and commercial readiness for deep-tech evaluation. | [Explore the framework and calculator](https://drmnabdulla.github.io/triad-index/) · [Source repository](https://github.com/drmnabdulla/triad-index) |
 
 ## Research foundations
