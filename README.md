@@ -23,6 +23,12 @@ Here I share books, research, and practical frameworks for engineers, researcher
 | **NPU Architecture and Compiler Co-Design** | An open-access book exploring AI accelerator design through memory systems and data movement. Its central argument: a dataflow is a loop order plus a storage assignment. | [Read the book](https://drmnabdulla.github.io/npu-book-v1/) · [Source repository](https://github.com/drmnabdulla/npu-book-v1) |
 | **The TRIAD Index** | A framework connecting technology, manufacturing, and commercial readiness for deep-tech evaluation. | [Explore the framework and calculator](https://drmnabdulla.github.io/triad-index/) · [Source repository](https://github.com/drmnabdulla/triad-index) |
 
+## Articles & Technical Perspectives
+
+I write about semiconductor technology, system architecture, design and integration, and engineering leadership.
+
+📄 **[Read my articles on Semiconductor Insights](https://github.com/drmnabdulla/semiconductor-insights)**
+
 ## Research foundations
 
 My doctoral research focused on **Electromagnetic Modeling of Active Antennas with Application to Spatial Power Combining** at North Carolina State University (1999), advised by Dr. Michael B. Steer.
